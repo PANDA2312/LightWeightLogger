@@ -1,4 +1,5 @@
 # LightWeightLogger——一个C语言轻量日志框架
+##别看了哥我自己都绷不住
 ![effect](https://raw.githubusercontent.com/UniDevGH/LightWeightLogger/main/effect.png "效果")
 ## 使用方法
 ### 输出调试信息  
